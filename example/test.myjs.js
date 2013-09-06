@@ -1,0 +1,1 @@
+var number = 42;var string = "This is a string";if (number!=string) {console.log("number is different from string");var string42 = "42";if (number==string42) {console.log("number is equal to string42");}}

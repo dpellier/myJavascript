@@ -1,0 +1,14 @@
+number : 42
+string : "This is a string"
+
+? number != string
+_
+    print "number is different from string"
+
+    string42 : "42"
+
+    ? number == string42
+    _
+        print "number is equal to string42"
+    _
+_
