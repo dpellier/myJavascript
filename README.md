@@ -6,6 +6,7 @@ Based on NodeJs and Jison
 (Just an exercise to understand how it work)
 
 **How to use it**
+
     npm install -g jison
 
     jison compiler/myJavascript.jison
